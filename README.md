@@ -7,7 +7,7 @@ The datasets used for the tests and experiments are provided by different source
 
 <h2> Purpose </h2>
 The primary purpose of this repository is to:
-
+<br></br>
 <li> Conduct A/B tests for different industries and use cases; </li>
 <li> Collect best practices across multiple domains; </li>
 <li> Work on a platform for A/B experiments. </li>
